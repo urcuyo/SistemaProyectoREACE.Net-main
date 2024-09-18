@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\capamodelo\\materiaprima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\materiaprima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\capamodelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\sistemaventas\\frminventariomateriaprima.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\frminventariomateriaprima.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\sistemaventas\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E29B887-97A3-47A9-B0F8-FB30EED30C3C}|CapaDatos\\CapaDatos.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\capadatos\\cd_inventariomateriaprima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E29B887-97A3-47A9-B0F8-FB30EED30C3C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_inventariomateriaprima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\sistemaventas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F024E-B461-440D-A50B-FF6C79311AF3}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E29B887-97A3-47A9-B0F8-FB30EED30C3C}|CapaDatos\\CapaDatos.csproj|c:\\users\\ugjc2\\onedrive\\escritorio\\nueva carpeta\\sistemaproyectoreace.net-main\\010_ventas_web_proyecto\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E29B887-97A3-47A9-B0F8-FB30EED30C3C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\iniciarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\iniciarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmusuario\\frmusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\controlador\\frmusuario\\frmusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmusuario\\frmusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\controlador\\frmusuario\\frmusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\iniciarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\iniciarsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmrol\\frmrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaREACE.csproj|solutionrelative:sistemaventas\\controlador\\frmrol\\frmrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmrol\\frmrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\controlador\\frmrol\\frmrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmproducto\\frmproducto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\controlador\\frmproducto\\frmproducto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\frmproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\frmproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmproveedor\\frmproveedor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\controlador\\frmproveedor\\frmproveedor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\controlador\\frmtienda\\frmtienda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\controlador\\frmtienda\\frmtienda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\sistemaventas\\doccompra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CA6402E-CD5E-4372-9F9F-2CD5D1805AEC}|SistemaVentas\\SistemaVentas.csproj|solutionrelative:sistemaventas\\doccompra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Inicio.aspx",
+              "RelativeToolTip": "SistemaVentas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-18T04:43:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\Categoria.cs",
+              "RelativeToolTip": "CapaModelo\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:35:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\Producto.cs",
+              "RelativeToolTip": "CapaModelo\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:38:42.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MateriaPrima.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\MateriaPrima.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\MateriaPrima.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaModelo\\MateriaPrima.cs",
+              "RelativeToolTip": "CapaModelo\\MateriaPrima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:38:17.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_InventarioMateriaprima.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaDatos\\CD_InventarioMateriaprima.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_InventarioMateriaprima.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaDatos\\CD_InventarioMateriaprima.cs",
+              "RelativeToolTip": "CapaDatos\\CD_InventarioMateriaprima.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:35:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\frmProducto.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx",
+              "RelativeToolTip": "SistemaVentas\\frmProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-18T03:18:25.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInventarioMateriaprima.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmInventarioMateriaprima.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\frmInventarioMateriaprima.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmInventarioMateriaprima.aspx",
+              "RelativeToolTip": "SistemaVentas\\frmInventarioMateriaprima.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-18T03:16:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmUsuario.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T14:59:26.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IniciarSesion.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\IniciarSesion.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\IniciarSesion.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\IniciarSesion.aspx",
+              "RelativeToolTip": "SistemaVentas\\IniciarSesion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-13T14:54:57.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Configuracion.cs",
+              "RelativeDocumentMoniker": "SistemaVentas\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Configuracion.cs",
+              "RelativeToolTip": "SistemaVentas\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:52:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaMaster.Master",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\PaginaMaster.Master",
+              "RelativeDocumentMoniker": "SistemaVentas\\PaginaMaster.Master",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\PaginaMaster.Master",
+              "RelativeToolTip": "SistemaVentas\\PaginaMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T07:03:11.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmRol.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:26:52.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Inicio.aspx",
+              "RelativeToolTip": "SistemaVentas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T05:23:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaginaMaster.Master",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\PaginaMaster.Master",
+              "RelativeDocumentMoniker": "SistemaVentas\\PaginaMaster.Master",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\PaginaMaster.Master",
+              "RelativeToolTip": "SistemaVentas\\PaginaMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T05:23:03.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IniciarSesion.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\IniciarSesion.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\IniciarSesion.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\IniciarSesion.aspx",
+              "RelativeToolTip": "SistemaVentas\\IniciarSesion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T05:09:03.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:06:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmUsuario.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmUsuario\\frmUsuario.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:06:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmCategoria.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmCategoria.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\frmCategoria.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmCategoria.aspx",
+              "RelativeToolTip": "SistemaVentas\\frmCategoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-09-11T05:06:05.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Configuracion.cs",
+              "RelativeDocumentMoniker": "SistemaVentas\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Configuracion.cs",
+              "RelativeToolTip": "SistemaVentas\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:06:05.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "docCompra.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\docCompra.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\docCompra.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\docCompra.aspx",
+              "RelativeToolTip": "SistemaVentas\\docCompra.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-09-11T05:06:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaVentas\\frmProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx.cs",
+              "RelativeToolTip": "SistemaVentas\\frmProducto.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:06:05.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmProveedor.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmProveedor\\frmProveedor.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmProveedor\\frmProveedor.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmProveedor\\frmProveedor.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmProveedor\\frmProveedor.js",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:06:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmTienda.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmTienda\\frmTienda.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmTienda\\frmTienda.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmTienda\\frmTienda.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmTienda\\frmTienda.js",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:06:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmRol.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmRol\\frmRol.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:06:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmProducto.js",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmProducto\\frmProducto.js",
+              "RelativeDocumentMoniker": "SistemaVentas\\Controlador\\frmProducto\\frmProducto.js",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\Controlador\\frmProducto\\frmProducto.js",
+              "RelativeToolTip": "SistemaVentas\\Controlador\\frmProducto\\frmProducto.js",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T05:06:05.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx",
+              "RelativeDocumentMoniker": "SistemaVentas\\frmProducto.aspx",
+              "ToolTip": "C:\\Users\\ugjc2\\OneDrive\\Escritorio\\Nueva carpeta\\SistemaProyectoREACE.Net-main\\010_VENTAS_WEB_Proyecto\\SistemaVentas\\frmProducto.aspx",
+              "RelativeToolTip": "SistemaVentas\\frmProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T05:06:05.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
